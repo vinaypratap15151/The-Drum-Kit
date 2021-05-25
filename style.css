@@ -49,7 +49,7 @@ body{
 }
 @media screen and (max-width:500px) {
   .heading{
-  font-size: 5rem;
+  font-size: 4.2rem;
   }
   .key-sound{
     padding: 20px 30px;
